@@ -1,2 +1,3 @@
 # walletexplorer_scraper
-Python scraper for walletexplorer.com
+
+Python scraper for walletexplorer.com.
