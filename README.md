@@ -1,9 +1,8 @@
 # Portfolio
 ## Work in progress
 Currently I'm working on:
-1. [Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)
-2. [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
-3. [Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+1. [Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+2. [Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 
 ## Done projects
 
