@@ -4,7 +4,6 @@
 
 Currently I'm working on:
 1. [fast.ai course](https://course.fast.ai/)
-2. [PetFinder.my Adoption Prediction](https://www.kaggle.com/c/petfinder-adoption-prediction)
 
 ## Done projects
 
