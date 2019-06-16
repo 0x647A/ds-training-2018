@@ -59,16 +59,25 @@ Twój klient zajmuje się importem kwiatów (irysów) z Chin. Sprowadza zawsze t
     
 
 2. Plan działania:
-    * Poznanie i zrozumienie danych danych 
+    * Poznanie i zrozumienie danych danych:
             - załaduje dane do dataframe (skorzystam z Pandas - Python Data Analysis Library);
+            
             - wyekstraktowanie podstawowych informacji o danych: 
+            
                 - .info(): podstawowe informacje o zbiorze danych,
+                
                 - .shape: metoda opisująca kształt danych,
+                
                 - .describe(): liczy podstawowe statystyki dla danych,
+                
                 - .nunique(): liczba unikatowych elementów,
+                
                 - .isnull(): szuka pustych wartości,
+                
                 - .sample(n): zwraca n wylosowanych wierszy,
+                
                 - .columns: wypisuje nazwy kolumn,
+                
                 - .corr() oblicza korelacje między kolumnami w zbirze danych;
                
                
