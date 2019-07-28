@@ -3,8 +3,7 @@
 ## Work in progress
 
 Currently I'm working on:
-1. [fast.ai course](https://course.fast.ai/)
-2. [Intel course - Deep Learning](https://software.intel.com/en-us/ai/courses/deep-learning)
+1. Sport_analysis
 
 ## Done projects
 
