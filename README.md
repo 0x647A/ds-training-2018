@@ -1,9 +1,6 @@
 # Portfolio
 
-## Work in progress
 
-Currently I'm working on:
-1. Sport_analysis
 
 ## Done projects
 
