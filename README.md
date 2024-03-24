@@ -14,6 +14,4 @@ Analysis | Machine Learning | Computer Vision | Other
 
 
 ## Acquired certificates
-[![Coursera: Mathematics for ML](images/coursera_math_for_ml.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/XS697UAM6XAL)
-[![Data Workshop](images/dataworkshop.png)](images/dataworkshop.png)
-[![Udemy](images/udemy.png)](images/udemy.png)
+[![Coursera: Mathematics for ML](certificates/coursera_math_for_ml.png)](https://www.coursera.org/account/accomplishments/specialization/certificate/XS697UAM6XAL)
